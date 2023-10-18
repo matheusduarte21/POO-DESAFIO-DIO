@@ -38,7 +38,7 @@ public class CelularPortatil implements NavegadorNaInternet, ReprodutorMusical, 
 	}
 
 	@Override
-	public void SelecionandoMúsica() {
+	public void SelecionandoMusica() {
 		System.out.println("escolhendo música");
 		
 	}

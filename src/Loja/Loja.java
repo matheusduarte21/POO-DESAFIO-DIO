@@ -7,6 +7,6 @@ public class Loja {
 		CelularPortatil celular = new CelularPortatil();
 		celular.Atender();
 		celular.Ligar();
-		celular.SelecionandoMúsica();
+		celular.SelecionandoMusica();
 	}
 }
